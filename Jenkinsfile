@@ -1,4 +1,4 @@
-#Jenkinsfile declrative piepline
+//Jenkinsfile declrative piepline
 pipeline
 {
 agent any
