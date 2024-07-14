@@ -23,5 +23,6 @@ agent any
                       echo 'Deploy stage is completed successfully.'
                         }
                      }
-         
-    }
+   }
+    
+}
