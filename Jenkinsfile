@@ -7,7 +7,7 @@ agent any
              steps {
 
                echo 'Build the image'
-               echo 'Build stage is completed successfully. 
+               echo 'Build stage is completed successfully.'
 
                    }
               }
